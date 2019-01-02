@@ -1,7 +1,7 @@
-# little_C-projects
-Some little programs wrote between 2016 and 2017
+# little_Cpp-projects
+Some little programs in C++ wrote between 2016 and 2017
 
-Last year, I have been involved in some simple projects concerning the
+-Last year, I have been involved in some simple projects concerning the
 implementation of some algorithms. For instance, I wrote a customized C++ matrix
 class having two different methods for calculating the determinant of a square
 matrix: one by the Leibniz formula, and the other one by the LU decomposition.
@@ -15,7 +15,7 @@ smaller matrixes, but as the order increases, rounding errors affect the result,
 presumably because of the accumulation of floating point rounding errors in the
 large number of calculations.
 
-Recently, I was also asked by some colleagues to conduct a survey on Bachelors
+-Recently, I was also asked by some colleagues to conduct a survey on Bachelors
 students who want to remain at my University for a Masters Degree in Physics next
 year. After conducting the survey on a 20-person sample, I processed the data with
 a simple C++ program which calculates the probability distribution of the number of
