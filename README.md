@@ -1,5 +1,5 @@
 # little_Cpp-projects
-Some little programs in C++ wrote between 2016 and 2017
+Some little projects in C++ wrote between 2016 and 2017
 
 -Last year, I have been involved in some simple projects concerning the
 implementation of some algorithms. For instance, I wrote a customized C++ matrix
