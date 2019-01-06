@@ -1,4 +1,4 @@
-# little_Cpp-projects
+# various-projects
 Some little projects in C++ written between 2016 and 2018
 
 
