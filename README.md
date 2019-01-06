@@ -1,5 +1,5 @@
-# various-projects
-Some little projects in C++ written between 2016 and 2018
+# various-programs
+Some little projects in C++ or Python written between 2016 and 2018
 
 
 -In 2018...Python, inverted pendulum..
